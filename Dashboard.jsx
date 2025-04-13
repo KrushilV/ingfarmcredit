@@ -10,7 +10,7 @@ function Dashboard() {
     datasets: [{
       label: 'Temperature (°C)',
       data: [22, 24, 25, 23, 22, 24, 26],
-      borderColor: 'rgb(228, 18, 18)',
+      borderColor: 'rgb(96, 230, 161)',
       tension: 0.1
     }]
   };
