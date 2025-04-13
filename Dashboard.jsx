@@ -40,7 +40,7 @@ function Dashboard() {
         <div className="bg-white p-6 rounded-lg shadow-md">
           <div className="flex items-center space-x-2 mb-4">
             <Thermometer className="text-red-500" />
-            <h2 className="text-xl font-semibold">Soil Health Index</h2>
+            <h1 className="text-xl font-semibold">Soil Health Index</h1>
           </div>
           <div className="text-4xl font-bold text-center text-green-600">8.5/10</div>
           <p className="text-center text-gray-600 mt-2">Excellent Condition</p>
